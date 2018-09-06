@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8"/> <!--comentário-->
-            <title>Atividade Contínua 4</title>
+    <meta charset="UTF-8"/> <!--comentÃ¡rio-->
+            <title>Atividade ContÃ­nua 4</title>
     <link rel="stylesheet" href="estilo.css"/>
 </head>
 <body>
+    <ol>
+        <ul>Leonardo De Oliveira Nowacki</ul>
+    </ol>
     <form action="novoCliente" method="POST"><br/>
         <i><label for="Nome">Nome Completo</label><br/></i>
         <input class="nome" type="text" maxlength="20" name="Nome Completo" id="Nome Completo"/><br/><br/>
-        <i><label for="Endereço">Endereço</label><br/></i>
-        <input class="endereço" type="text" maxlength="30" name="Endereço" id="Endereço"/><br/><br/>
+        <i><label for="EndereÃ§o">EndereÃ§o</label><br/></i>
+        <input class="endereÃ§o" type="text" maxlength="30" name="EndereÃ§o" id="EndereÃ§o"/><br/><br/>
         <i><label for="CNPJ">Cidade</label></i><br/>
         <input class="cidade" type="text" name="Cidade" id="Cidade"/><br/><br/>
         <i><label for="Site">UF</label></i> <br/>
